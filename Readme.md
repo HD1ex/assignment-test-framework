@@ -2,7 +2,7 @@
 
 This repository provides classes to simplify testing KIT Programming 1 assignments.
 
-For further information take a look at the [wiki](link).
+<!--- For further information take a look at the [wiki](link). --->
 
 Also have a look at our [Discord-Server](https://discord.gg/RVxBMVa).
 
